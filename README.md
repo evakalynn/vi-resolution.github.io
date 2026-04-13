@@ -1,8 +1,8 @@
-# Vi-Resolution Reddit game
+# "Vi-sualize The Episode" Reddit game
 
 ## Description
 
-*Vi-sualize the Episode* is a specialized community engagement application designed for the [r/ViArcane](https://www.reddit.com/r/ViArcane/) subreddit. It transforms the viewing experience of Riot Games’ Arcane into a competitive, time-based trivia challenge. The application leverages high-fidelity frames from Seasons 1 and 2, specifically focusing on the character Vi, to test the observational skills and dedication of the community through a unique "progressive reveal" mechanic.
+*Vi-sualize the Episode* (Vi-Resolution) is a specialized community engagement application designed for the [r/ViArcane](https://www.reddit.com/r/ViArcane/) subreddit. It transforms the viewing experience of Riot Games’ Arcane into a competitive, time-based trivia challenge. The application leverages high-fidelity frames from Seasons 1 and 2, specifically focusing on the character Vi, to test the observational skills and dedication of the community through a unique "progressive reveal" mechanic.
 
 The core gameplay loop centers on a dynamic de-pixelization system. Each round begins with a heavily obscured image that gradually gains clarity over a set duration. Users are incentivized to identify the exact season and episode while the image is still at its lowest resolution to secure maximum points. To maintain competitive integrity, the app implements a decaying point structure and increasing penalties for incorrect guesses, forcing players to balance speed with precision.
 

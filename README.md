@@ -16,4 +16,4 @@ Key Technical Features:
 
 ## Links
 
-* Official App page: https://developers.reddit.com/apps/vi-resolution
+* Official App page: [https://developers.reddit.com/apps/vi-resolution](https://developers.reddit.com/apps/vi-resolution)

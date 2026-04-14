@@ -14,6 +14,12 @@ Key Technical Features:
 * Community Analytics: Live tracking of active participants and global ranking synchronization.
 * Moderation Suite: Simplified interface for episode verification and game-cycle automation.
 
+
 ## Links
 
 * Official App page: [https://developers.reddit.com/apps/vi-resolution](https://developers.reddit.com/apps/vi-resolution)
+
+
+## License
+
+"Vi-sualize The Episode" was created under Riot Games' "Legal Jibber Jabber" policy using assets owned by Riot Games.  Riot Games does not endorse or sponsor this project. 
